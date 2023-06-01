@@ -51,5 +51,10 @@ namespace AwesomeNetwork.Data.Repository
             Set.Update(item);
             _db.SaveChanges();
         }
+
+        public void Delete(int id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

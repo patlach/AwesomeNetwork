@@ -1,4 +1,6 @@
-﻿namespace AwesomeNetwork.Models.Users
+﻿using AwesomeNetwork.ViewModels.Account;
+
+namespace AwesomeNetwork.Models.Users
 {
     public static class UserFromModel
     {

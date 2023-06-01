@@ -1,7 +1,7 @@
 ﻿using AwesomeNetwork.Models.Users;
 using System.Collections.Generic;
 
-namespace AwesomeNetwork.Controllers.Account
+namespace AwesomeNetwork.ViewModels.Account
 {
     public class SearchViewModel
     {
